@@ -1,7 +1,7 @@
 <?php
 /*
 	Author: 	i/Alfa-Team
-	Telegram: 	https://telegram.me/
+	Telegram: 	https://telegram.me/ioxi
 	YouTube: 	https://youtube.com/
 	Gmail:		@gmail.com
 	Date:		Monday, September 14, 2020
